@@ -298,10 +298,8 @@ Step 3 : Performing Synthesis<br />
 
 # FLOORPLANNING:
 ![WhatsApp Image 2025-05-27 at 16 16 18_774fd77f](https://github.com/user-attachments/assets/71bf0e22-5802-46a8-8ce3-53f6a456f333)
+![WhatsApp Image 2025-05-27 at 16 16 42_56f470cb](https://github.com/user-attachments/assets/4fc312b9-8de2-487e-b5b6-6e3cbd780245)
 
-
-
-![WhatsApp Image 2025-05-27 at 16 16 17_1ab58282](https://github.com/user-attachments/assets/8f557345-9b52-451b-986b-66236003f465)
 
 # RESULT:
 The functionality of a UART was successfully verified using a test bench and simulated with the nclaunch tool and genus and for innovus created the  floorplanning.
@@ -313,4 +311,4 @@ The functionality of a UART was successfully verified using a test bench and sim
 
 
 
-# 
+
